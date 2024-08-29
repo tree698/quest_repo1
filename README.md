@@ -1,12 +1,3 @@
-# AIFFEL Data Scientist Campus Code Peer Review Templete
-
-코더 : 성재현
-
-
-리뷰어 : 이찬우
-
-
----
 
 🔑 **PRT(Peer Review Template)**
 
